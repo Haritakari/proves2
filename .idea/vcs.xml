@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/formacio/GildedRoseKata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/formacio/backend-test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/formacio/birthday-greetings-kata-php" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/formacio/bit/birthday-greetings-kata" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/formacio/bootstrap-vue-training" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/prova_tactician" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python/python_18_19" vcs="Git" />
+  </component>
+</project>
